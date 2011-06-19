@@ -1,0 +1,505 @@
+TSamsungNavigator
+v7
+r0
+t330181406.262713
+cCheck dependencies
+cProcessInfoPlistFile /Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app/Info.plist SamsungNavigator-Info.plist
+cCompileXIB /Users/link/Documents/SamsungNavigator/MainWindow.xib
+cCompileXIB /Users/link/Documents/SamsungNavigator/SamsungNavigatorViewController.xib
+cCpResource build/Debug-iphonesimulator/SamsungNavigator.app/attention.png attention.png
+cCpResource build/Debug-iphonesimulator/SamsungNavigator.app/background.png background.png
+cCpResource build/Debug-iphonesimulator/SamsungNavigator.app/icon.png icon.png
+cCpResource build/Debug-iphonesimulator/SamsungNavigator.app/navigator.png navigator.png
+cCpResource build/Debug-iphonesimulator/SamsungNavigator.app/navigator01.png navigator01.png
+cCpResource build/Debug-iphonesimulator/SamsungNavigator.app/navigator02.png navigator02.png
+cCpResource build/Debug-iphonesimulator/SamsungNavigator.app/renren.png renren.png
+cCpResource build/Debug-iphonesimulator/SamsungNavigator.app/samsung.png samsung.png
+cCpResource build/Debug-iphonesimulator/SamsungNavigator.app/shop.png shop.png
+cCpResource build/Debug-iphonesimulator/SamsungNavigator.app/sns.png sns.png
+cCpResource build/Debug-iphonesimulator/SamsungNavigator.app/v.png v.png
+cCpResource build/Debug-iphonesimulator/SamsungNavigator.app/weibo.png weibo.png
+cCpResource build/Debug-iphonesimulator/SamsungNavigator.app/weibos.png weibos.png
+cProcessPCH /var/folders/k+/k+01XkcDGI8vlJcS2y-pxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SamsungNavigator_Prefix-gqliicijkawodjayyneovgwkvcof/SamsungNavigator_Prefix.pch.gch SamsungNavigator_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SamsungNavigator.build/Debug-iphonesimulator/SamsungNavigator.build/Objects-normal/i386/main.o /Users/link/Documents/SamsungNavigator/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SamsungNavigator.build/Debug-iphonesimulator/SamsungNavigator.build/Objects-normal/i386/SamsungNavigatorAppDelegate.o /Users/link/Documents/SamsungNavigator/Classes/SamsungNavigatorAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SamsungNavigator.build/Debug-iphonesimulator/SamsungNavigator.build/Objects-normal/i386/SamsungNavigatorViewController.o /Users/link/Documents/SamsungNavigator/Classes/SamsungNavigatorViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app/SamsungNavigator normal i386
+cGenerateDSYMFile /Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app.dSYM /Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app/SamsungNavigator
+cTouch /Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/link/Documents/SamsungNavigator/Classes/SamsungNavigatorAppDelegate.h
+c000000004DFDC988000000000000020E
+t1308477832
+s526
+i<UIKit/UIKit.h>
+
+N/Users/link/Documents/SamsungNavigator/Classes/SamsungNavigatorAppDelegate.m
+c000000004DFDC9880000000000000ABB
+t1308477832
+s2747
+i"SamsungNavigatorAppDelegate.h"
+i"SamsungNavigatorViewController.h"
+
+N/Users/link/Documents/SamsungNavigator/Classes/SamsungNavigatorViewController.h
+c000000004DFDEEE400000000000001CE
+t1308487396
+s462
+i<UIKit/UIKit.h>
+
+N/Users/link/Documents/SamsungNavigator/Classes/SamsungNavigatorViewController.m
+c000000004DFDF39B00000000000007F8
+t1308488603
+s2040
+i"SamsungNavigatorViewController.h"
+
+N/Users/link/Documents/SamsungNavigator/MainWindow.xib
+c000000004DFDC9880000000000004E95
+t1308477832
+s20117
+
+N/Users/link/Documents/SamsungNavigator/SamsungNavigatorViewController.xib
+c000000004DFDEEF600000000000080ED
+t1308487414
+s33005
+
+N/Users/link/Documents/SamsungNavigator/SamsungNavigator_Prefix.pch
+c000000004DFDC98800000000000000C9
+t1308477832
+s201
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/link/Documents/SamsungNavigator/attention.png
+c000000004DF37092000000000000263B
+t1307799698
+s9787
+
+N/Users/link/Documents/SamsungNavigator/background.png
+c000000004DF3709200000000000007D7
+t1307799698
+s2007
+
+N/Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app
+t1308488606
+s680
+
+N/Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app.dSYM
+t1308488606
+s102
+
+N/Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app/Info.plist
+t1308479251
+s633
+
+N/Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app/MainWindow.nib
+t1308479252
+s1141
+
+N/Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app/PkgInfo
+t1308479251
+s8
+
+N/Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app/SamsungNavigator
+t1308488606
+s18520
+
+N/Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app/SamsungNavigatorViewController.nib
+t1308487496
+s2974
+
+N/Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app/attention.png
+t1308479252
+s9787
+
+N/Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app/background.png
+t1308479252
+s2007
+
+N/Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app/icon.png
+t1308479252
+s6166
+
+N/Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app/navigator.png
+t1308479252
+s9978
+
+N/Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app/navigator01.png
+t1308479252
+s4842
+
+N/Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app/navigator02.png
+t1308479252
+s3504
+
+N/Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app/renren.png
+t1308479252
+s8611
+
+N/Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app/samsung.png
+t1308479252
+s4842
+
+N/Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app/shop.png
+t1308479252
+s3504
+
+N/Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app/sns.png
+t1308479252
+s3553
+
+N/Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app/v.png
+t1308479252
+s244
+
+N/Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app/weibo.png
+t1308479252
+s1367
+
+N/Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app/weibos.png
+t1308479252
+s2686
+
+N/Users/link/Documents/SamsungNavigator/build/SamsungNavigator.build/Debug-iphonesimulator/SamsungNavigator.build/Objects-normal/i386/SamsungNavigator.LinkFileList
+c000000004DFDCF1300000000000001D5
+t1308479251
+s469
+
+N/Users/link/Documents/SamsungNavigator/build/SamsungNavigator.build/Debug-iphonesimulator/SamsungNavigator.build/Objects-normal/i386/SamsungNavigatorAppDelegate.o
+t1308487496
+s52268
+
+N/Users/link/Documents/SamsungNavigator/build/SamsungNavigator.build/Debug-iphonesimulator/SamsungNavigator.build/Objects-normal/i386/SamsungNavigatorViewController.o
+t1308488606
+s45776
+
+N/Users/link/Documents/SamsungNavigator/build/SamsungNavigator.build/Debug-iphonesimulator/SamsungNavigator.build/Objects-normal/i386/main.o
+t1308479253
+s6304
+
+N/Users/link/Documents/SamsungNavigator/icon.png
+c000000004DE6260E0000000000001816
+t1306928654
+s6166
+
+N/Users/link/Documents/SamsungNavigator/main.m
+c000000004DFDC988000000000000016B
+t1308477832
+s363
+i<UIKit/UIKit.h>
+
+N/Users/link/Documents/SamsungNavigator/navigator.png
+c000000004DF3709200000000000026FA
+t1307799698
+s9978
+
+N/Users/link/Documents/SamsungNavigator/navigator01.png
+c000000004DF3709200000000000012EA
+t1307799698
+s4842
+
+N/Users/link/Documents/SamsungNavigator/navigator02.png
+c000000004DFBF65A0000000000000DB0
+t1308358234
+s3504
+
+N/Users/link/Documents/SamsungNavigator/renren.png
+c000000004DE6260E00000000000021A3
+t1306928654
+s8611
+
+N/Users/link/Documents/SamsungNavigator/samsung.png
+c000000004DF3709200000000000012EA
+t1307799698
+s4842
+
+N/Users/link/Documents/SamsungNavigator/shop.png
+c000000004DF370920000000000000DB0
+t1307799698
+s3504
+
+N/Users/link/Documents/SamsungNavigator/sns.png
+c000000004DFBF65A0000000000000DE1
+t1308358234
+s3553
+
+N/Users/link/Documents/SamsungNavigator/v.png
+c000000004DE6260E00000000000000F4
+t1306928654
+s244
+
+N/Users/link/Documents/SamsungNavigator/weibo.png
+c000000004DE6260E0000000000000557
+t1306928654
+s1367
+
+N/Users/link/Documents/SamsungNavigator/weibos.png
+c000000004DFBF65A0000000000000A7E
+t1308358234
+s2686
+
+N/var/folders/k+/k+01XkcDGI8vlJcS2y-pxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SamsungNavigator_Prefix-gqliicijkawodjayyneovgwkvcof/SamsungNavigator_Prefix.pch.gch
+t1308479253
+s10360536
+
+NSamsungNavigator-Info.plist
+c000000004DFDC988000000000000038D
+t1308477832
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies330181406#330181406#0(0"0(0#1#0"2560807568#0"0#
+
+CCompileC build/SamsungNavigator.build/Debug-iphonesimulator/SamsungNavigator.build/Objects-normal/i386/SamsungNavigatorAppDelegate.o /Users/link/Documents/SamsungNavigator/Classes/SamsungNavigatorAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330180296.674575
+e330180296.843786
+r1
+xCompileC
+xbuild/SamsungNavigator.build/Debug-iphonesimulator/SamsungNavigator.build/Objects-normal/i386/SamsungNavigatorAppDelegate.o
+x/Users/link/Documents/SamsungNavigator/Classes/SamsungNavigatorAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/link/Documents/SamsungNavigator/Classes/SamsungNavigatorAppDelegate.m330180296#330180296#0(0"0(0#0#76"/Users/link/Documents/SamsungNavigator/Classes/SamsungNavigatorAppDelegate.m2560807568#2148"    cd /Users/link/Documents/SamsungNavigator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/link/Documents/SamsungNavigator/build/SamsungNavigator.build/Debug-iphonesimulator/SamsungNavigator.build/SamsungNavigator-generated-files.hmap -I/Users/link/Documents/SamsungNavigator/build/SamsungNavigator.build/Debug-iphonesimulator/SamsungNavigator.build/SamsungNavigator-own-target-headers.hmap -I/Users/link/Documents/SamsungNavigator/build/SamsungNavigator.build/Debug-iphonesimulator/SamsungNavigator.build/SamsungNavigator-all-target-headers.hmap -iquote /Users/link/Documents/SamsungNavigator/build/SamsungNavigator.build/Debug-iphonesimulator/SamsungNavigator.build/SamsungNavigator-project-headers.hmap -F/Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator -I/Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/include -I/Users/link/Documents/SamsungNavigator/build/SamsungNavigator.build/Debug-iphonesimulator/SamsungNavigator.build/DerivedSources/i386 -I/Users/link/Documents/SamsungNavigator/build/SamsungNavigator.build/Debug-iphonesimulator/SamsungNavigator.build/DerivedSources -include /var/folders/k+/k+01XkcDGI8vlJcS2y-pxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SamsungNavigator_Prefix-gqliicijkawodjayyneovgwkvcof/SamsungNavigator_Prefix.pch -c /Users/link/Documents/SamsungNavigator/Classes/SamsungNavigatorAppDelegate.m -o /Users/link/Documents/SamsungNavigator/build/SamsungNavigator.build/Debug-iphonesimulator/SamsungNavigator.build/Objects-normal/i386/SamsungNavigatorAppDelegate.o0#
+
+CCompileC build/SamsungNavigator.build/Debug-iphonesimulator/SamsungNavigator.build/Objects-normal/i386/SamsungNavigatorViewController.o /Users/link/Documents/SamsungNavigator/Classes/SamsungNavigatorViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330181406.032110
+e330181406.192067
+r1
+xCompileC
+xbuild/SamsungNavigator.build/Debug-iphonesimulator/SamsungNavigator.build/Objects-normal/i386/SamsungNavigatorViewController.o
+x/Users/link/Documents/SamsungNavigator/Classes/SamsungNavigatorViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/link/Documents/SamsungNavigator/Classes/SamsungNavigatorViewController.m:86: warning: property 'weibo1' requires method '-weibo1' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/link/Documents/SamsungNavigator/Classes/SamsungNavigatorViewController.m:86: warning: property 'weibo1' requires the method 'setWeibo1:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@87"Compile /Users/link/Documents/SamsungNavigator/Classes/SamsungNavigatorViewController.m330181406#330181406#0(435"/Users/link/Documents/SamsungNavigator/Classes/SamsungNavigatorViewController.m:86: warning: property 'weibo1' requires method '-weibo1' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/link/Documents/SamsungNavigator/Classes/SamsungNavigatorViewController.m:86: warning: property 'weibo1' requires the method 'setWeibo1:' to be defined - use @synthesize, @dynamic or provide a method implementation2(22@120"Property 'weibo1' requires method '-weibo1' to be defined - use @synthesize, @dynamic or provide a method implementation330181406#0#214#0(6@79"/Users/link/Documents/SamsungNavigator/Classes/SamsungNavigatorViewController.m330181403#86#0#86#0#0"0(22@127"Property 'weibo1' requires the method 'setWeibo1:' to be defined - use @synthesize, @dynamic or provide a method implementation330181406#214#221#0(6@79"/Users/link/Documents/SamsungNavigator/Classes/SamsungNavigatorViewController.m330181403#86#0#86#0#0"0(0#0#79"/Users/link/Documents/SamsungNavigator/Classes/SamsungNavigatorViewController.m2560807568#2154"    cd /Users/link/Documents/SamsungNavigator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/link/Documents/SamsungNavigator/build/SamsungNavigator.build/Debug-iphonesimulator/SamsungNavigator.build/SamsungNavigator-generated-files.hmap -I/Users/link/Documents/SamsungNavigator/build/SamsungNavigator.build/Debug-iphonesimulator/SamsungNavigator.build/SamsungNavigator-own-target-headers.hmap -I/Users/link/Documents/SamsungNavigator/build/SamsungNavigator.build/Debug-iphonesimulator/SamsungNavigator.build/SamsungNavigator-all-target-headers.hmap -iquote /Users/link/Documents/SamsungNavigator/build/SamsungNavigator.build/Debug-iphonesimulator/SamsungNavigator.build/SamsungNavigator-project-headers.hmap -F/Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator -I/Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/include -I/Users/link/Documents/SamsungNavigator/build/SamsungNavigator.build/Debug-iphonesimulator/SamsungNavigator.build/DerivedSources/i386 -I/Users/link/Documents/SamsungNavigator/build/SamsungNavigator.build/Debug-iphonesimulator/SamsungNavigator.build/DerivedSources -include /var/folders/k+/k+01XkcDGI8vlJcS2y-pxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SamsungNavigator_Prefix-gqliicijkawodjayyneovgwkvcof/SamsungNavigator_Prefix.pch -c /Users/link/Documents/SamsungNavigator/Classes/SamsungNavigatorViewController.m -o /Users/link/Documents/SamsungNavigator/build/SamsungNavigator.build/Debug-iphonesimulator/SamsungNavigator.build/Objects-normal/i386/SamsungNavigatorViewController.o0#
+
+CCompileC build/SamsungNavigator.build/Debug-iphonesimulator/SamsungNavigator.build/Objects-normal/i386/main.o /Users/link/Documents/SamsungNavigator/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330172053.630942
+e330172053.786898
+r1
+xCompileC
+xbuild/SamsungNavigator.build/Debug-iphonesimulator/SamsungNavigator.build/Objects-normal/i386/main.o
+x/Users/link/Documents/SamsungNavigator/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/link/Documents/SamsungNavigator/main.m330172053#330172053#0(0"0(0#0#45"/Users/link/Documents/SamsungNavigator/main.m2560807568#2094"    cd /Users/link/Documents/SamsungNavigator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/link/Documents/SamsungNavigator/build/SamsungNavigator.build/Debug-iphonesimulator/SamsungNavigator.build/SamsungNavigator-generated-files.hmap -I/Users/link/Documents/SamsungNavigator/build/SamsungNavigator.build/Debug-iphonesimulator/SamsungNavigator.build/SamsungNavigator-own-target-headers.hmap -I/Users/link/Documents/SamsungNavigator/build/SamsungNavigator.build/Debug-iphonesimulator/SamsungNavigator.build/SamsungNavigator-all-target-headers.hmap -iquote /Users/link/Documents/SamsungNavigator/build/SamsungNavigator.build/Debug-iphonesimulator/SamsungNavigator.build/SamsungNavigator-project-headers.hmap -F/Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator -I/Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/include -I/Users/link/Documents/SamsungNavigator/build/SamsungNavigator.build/Debug-iphonesimulator/SamsungNavigator.build/DerivedSources/i386 -I/Users/link/Documents/SamsungNavigator/build/SamsungNavigator.build/Debug-iphonesimulator/SamsungNavigator.build/DerivedSources -include /var/folders/k+/k+01XkcDGI8vlJcS2y-pxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SamsungNavigator_Prefix-gqliicijkawodjayyneovgwkvcof/SamsungNavigator_Prefix.pch -c /Users/link/Documents/SamsungNavigator/main.m -o /Users/link/Documents/SamsungNavigator/build/SamsungNavigator.build/Debug-iphonesimulator/SamsungNavigator.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/link/Documents/SamsungNavigator/MainWindow.xib
+s330172051.767409
+e330172052.378044
+r1
+xCompileXIB
+x/Users/link/Documents/SamsungNavigator/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib330172051#330172052#0(0"0(0#0#53"/Users/link/Documents/SamsungNavigator/MainWindow.xib4255560#579"    cd /Users/link/Documents/SamsungNavigator    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app/MainWindow.nib /Users/link/Documents/SamsungNavigator/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/link/Documents/SamsungNavigator/SamsungNavigatorViewController.xib
+s330180295.631280
+e330180296.673591
+r1
+xCompileXIB
+x/Users/link/Documents/SamsungNavigator/SamsungNavigatorViewController.xib
+lSLF07#2@45"CompileXIB SamsungNavigatorViewController.xib330180295#330180296#0(0"0(0#0#73"/Users/link/Documents/SamsungNavigator/SamsungNavigatorViewController.xib2560807568#619"    cd /Users/link/Documents/SamsungNavigator    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app/SamsungNavigatorViewController.nib /Users/link/Documents/SamsungNavigator/SamsungNavigatorViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/SamsungNavigator.app/attention.png attention.png
+s330172052.378216
+e330172052.402846
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SamsungNavigator.app/attention.png
+xattention.png
+lSLF07#2@18"Copy attention.png330172052#330172052#0(0"0(0#0#52"/Users/link/Documents/SamsungNavigator/attention.png2560807568#480"    cd /Users/link/Documents/SamsungNavigator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/link/Documents/SamsungNavigator/attention.png /Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app0#
+
+CCpResource build/Debug-iphonesimulator/SamsungNavigator.app/background.png background.png
+s330172052.379433
+e330172052.411518
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SamsungNavigator.app/background.png
+xbackground.png
+lSLF07#2@19"Copy background.png330172052#330172052#0(0"0(0#0#53"/Users/link/Documents/SamsungNavigator/background.png2560807568#481"    cd /Users/link/Documents/SamsungNavigator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/link/Documents/SamsungNavigator/background.png /Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app0#
+
+CCpResource build/Debug-iphonesimulator/SamsungNavigator.app/icon.png icon.png
+s330172052.381530
+e330172052.418512
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SamsungNavigator.app/icon.png
+xicon.png
+lSLF07#2@13"Copy icon.png330172052#330172052#0(0"0(0#0#47"/Users/link/Documents/SamsungNavigator/icon.png2560807568#475"    cd /Users/link/Documents/SamsungNavigator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/link/Documents/SamsungNavigator/icon.png /Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app0#
+
+CCpResource build/Debug-iphonesimulator/SamsungNavigator.app/navigator.png navigator.png
+s330172052.383734
+e330172052.419126
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SamsungNavigator.app/navigator.png
+xnavigator.png
+lSLF07#2@18"Copy navigator.png330172052#330172052#0(0"0(0#0#52"/Users/link/Documents/SamsungNavigator/navigator.png2560807568#480"    cd /Users/link/Documents/SamsungNavigator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/link/Documents/SamsungNavigator/navigator.png /Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app0#
+
+CCpResource build/Debug-iphonesimulator/SamsungNavigator.app/navigator01.png navigator01.png
+s330172052.385402
+e330172052.436996
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SamsungNavigator.app/navigator01.png
+xnavigator01.png
+lSLF07#2@20"Copy navigator01.png330172052#330172052#0(0"0(0#0#54"/Users/link/Documents/SamsungNavigator/navigator01.png2560807568#482"    cd /Users/link/Documents/SamsungNavigator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/link/Documents/SamsungNavigator/navigator01.png /Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app0#
+
+CCpResource build/Debug-iphonesimulator/SamsungNavigator.app/navigator02.png navigator02.png
+s330172052.386482
+e330172052.433560
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SamsungNavigator.app/navigator02.png
+xnavigator02.png
+lSLF07#2@20"Copy navigator02.png330172052#330172052#0(0"0(0#0#54"/Users/link/Documents/SamsungNavigator/navigator02.png2560807568#482"    cd /Users/link/Documents/SamsungNavigator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/link/Documents/SamsungNavigator/navigator02.png /Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app0#
+
+CCpResource build/Debug-iphonesimulator/SamsungNavigator.app/renren.png renren.png
+s330172052.388540
+e330172052.424658
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SamsungNavigator.app/renren.png
+xrenren.png
+lSLF07#2@15"Copy renren.png330172052#330172052#0(0"0(0#0#49"/Users/link/Documents/SamsungNavigator/renren.png2560807568#477"    cd /Users/link/Documents/SamsungNavigator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/link/Documents/SamsungNavigator/renren.png /Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app0#
+
+CCpResource build/Debug-iphonesimulator/SamsungNavigator.app/samsung.png samsung.png
+s330172052.389617
+e330172052.408617
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SamsungNavigator.app/samsung.png
+xsamsung.png
+lSLF07#2@16"Copy samsung.png330172052#330172052#0(0"0(0#0#50"/Users/link/Documents/SamsungNavigator/samsung.png2560807568#478"    cd /Users/link/Documents/SamsungNavigator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/link/Documents/SamsungNavigator/samsung.png /Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app0#
+
+CCpResource build/Debug-iphonesimulator/SamsungNavigator.app/shop.png shop.png
+s330172052.391708
+e330172052.415931
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SamsungNavigator.app/shop.png
+xshop.png
+lSLF07#2@13"Copy shop.png330172052#330172052#0(0"0(0#0#47"/Users/link/Documents/SamsungNavigator/shop.png2560807568#475"    cd /Users/link/Documents/SamsungNavigator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/link/Documents/SamsungNavigator/shop.png /Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app0#
+
+CCpResource build/Debug-iphonesimulator/SamsungNavigator.app/sns.png sns.png
+s330172052.402973
+e330172052.424367
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SamsungNavigator.app/sns.png
+xsns.png
+lSLF07#2@12"Copy sns.png330172052#330172052#0(0"0(0#0#46"/Users/link/Documents/SamsungNavigator/sns.png2560807568#474"    cd /Users/link/Documents/SamsungNavigator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/link/Documents/SamsungNavigator/sns.png /Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app0#
+
+CCpResource build/Debug-iphonesimulator/SamsungNavigator.app/v.png v.png
+s330172052.408744
+e330172052.430432
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SamsungNavigator.app/v.png
+xv.png
+lSLF07#2@10"Copy v.png330172052#330172052#0(0"0(0#0#44"/Users/link/Documents/SamsungNavigator/v.png2560807568#472"    cd /Users/link/Documents/SamsungNavigator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/link/Documents/SamsungNavigator/v.png /Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app0#
+
+CCpResource build/Debug-iphonesimulator/SamsungNavigator.app/weibo.png weibo.png
+s330172052.411637
+e330172052.437255
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SamsungNavigator.app/weibo.png
+xweibo.png
+lSLF07#2@14"Copy weibo.png330172052#330172052#0(0"0(0#0#48"/Users/link/Documents/SamsungNavigator/weibo.png2560807568#476"    cd /Users/link/Documents/SamsungNavigator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/link/Documents/SamsungNavigator/weibo.png /Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app0#
+
+CCpResource build/Debug-iphonesimulator/SamsungNavigator.app/weibos.png weibos.png
+s330172052.416055
+e330172052.435365
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SamsungNavigator.app/weibos.png
+xweibos.png
+lSLF07#2@15"Copy weibos.png330172052#330172052#0(0"0(0#0#49"/Users/link/Documents/SamsungNavigator/weibos.png2560807568#477"    cd /Users/link/Documents/SamsungNavigator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/link/Documents/SamsungNavigator/weibos.png /Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app0#
+
+CGenerateDSYMFile /Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app.dSYM /Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app/SamsungNavigator
+s330181406.231909
+e330181406.258010
+r1
+xGenerateDSYMFile
+x/Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app.dSYM
+x/Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app/SamsungNavigator
+lSLF07#2@136"GenerateDSYMFile build/Debug-iphonesimulator/SamsungNavigator.app.dSYM build/Debug-iphonesimulator/SamsungNavigator.app/SamsungNavigator330181406#330181406#0(0"0(0#0#104"/Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app/SamsungNavigator2560807568#410"    cd /Users/link/Documents/SamsungNavigator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app/SamsungNavigator -o /Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app.dSYM0#
+
+CLd /Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app/SamsungNavigator normal i386
+s330181406.192193
+e330181406.231765
+r1
+xLd
+x/Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app/SamsungNavigator
+xnormal
+xi386
+lSLF07#2@109"Link /Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app/SamsungNavigator330181406#330181406#0(0"0(0#0#0"2560807568#945"    cd /Users/link/Documents/SamsungNavigator    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator -F/Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator -filelist /Users/link/Documents/SamsungNavigator/build/SamsungNavigator.build/Debug-iphonesimulator/SamsungNavigator.build/Objects-normal/i386/SamsungNavigator.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app/SamsungNavigator0#
+
+CProcessInfoPlistFile /Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app/Info.plist SamsungNavigator-Info.plist
+s330172051.689461
+e330172051.767239
+r1
+xProcessInfoPlistFile
+x/Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app/Info.plist
+xSamsungNavigator-Info.plist
+lSLF07#2@35"Process SamsungNavigator-Info.plist330172051#330172051#0(0"0(0#0#66"/Users/link/Documents/SamsungNavigator/SamsungNavigator-Info.plist4255560#506"    cd /Users/link/Documents/SamsungNavigator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility SamsungNavigator-Info.plist -genpkginfo /Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app/Info.plist0#
+
+CProcessPCH /var/folders/k+/k+01XkcDGI8vlJcS2y-pxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SamsungNavigator_Prefix-gqliicijkawodjayyneovgwkvcof/SamsungNavigator_Prefix.pch.gch SamsungNavigator_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s330172052.503248
+e330172053.630580
+r1
+xProcessPCH
+x/var/folders/k+/k+01XkcDGI8vlJcS2y-pxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SamsungNavigator_Prefix-gqliicijkawodjayyneovgwkvcof/SamsungNavigator_Prefix.pch.gch
+xSamsungNavigator_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@38"Precompile SamsungNavigator_Prefix.pch330172052#330172053#0(0"0(0#0#66"/Users/link/Documents/SamsungNavigator/SamsungNavigator_Prefix.pch2560807568#1977"    cd /Users/link/Documents/SamsungNavigator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/link/Documents/SamsungNavigator/build/SamsungNavigator.build/Debug-iphonesimulator/SamsungNavigator.build/SamsungNavigator-generated-files.hmap -I/Users/link/Documents/SamsungNavigator/build/SamsungNavigator.build/Debug-iphonesimulator/SamsungNavigator.build/SamsungNavigator-own-target-headers.hmap -I/Users/link/Documents/SamsungNavigator/build/SamsungNavigator.build/Debug-iphonesimulator/SamsungNavigator.build/SamsungNavigator-all-target-headers.hmap -iquote /Users/link/Documents/SamsungNavigator/build/SamsungNavigator.build/Debug-iphonesimulator/SamsungNavigator.build/SamsungNavigator-project-headers.hmap -F/Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator -I/Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/include -I/Users/link/Documents/SamsungNavigator/build/SamsungNavigator.build/Debug-iphonesimulator/SamsungNavigator.build/DerivedSources/i386 -I/Users/link/Documents/SamsungNavigator/build/SamsungNavigator.build/Debug-iphonesimulator/SamsungNavigator.build/DerivedSources -c /Users/link/Documents/SamsungNavigator/SamsungNavigator_Prefix.pch -o /var/folders/k+/k+01XkcDGI8vlJcS2y-pxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SamsungNavigator_Prefix-gqliicijkawodjayyneovgwkvcof/SamsungNavigator_Prefix.pch.gch0#
+
+CTouch /Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app
+s330181406.258131
+e330181406.262644
+r1
+xTouch
+x/Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app
+lSLF07#2@93"Touch /Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app330181406#330181406#0(0"0(0#0#0"2560807568#287"    cd /Users/link/Documents/SamsungNavigator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/link/Documents/SamsungNavigator/build/Debug-iphonesimulator/SamsungNavigator.app0#
+
