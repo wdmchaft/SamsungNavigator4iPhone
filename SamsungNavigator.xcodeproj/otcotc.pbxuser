@@ -1,0 +1,238 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* SamsungNavigatorAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1643, 809}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 526}";
+			sepNavWindowFrame = "{{1, 91}, {1919, 965}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* SamsungNavigatorAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2244, 1296}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1912}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* SamsungNavigator */ = {
+		activeExec = 0;
+		executables = (
+			56BCDA6313AEC848004D6C5A /* SamsungNavigator */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* SamsungNavigatorViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1643, 809}}";
+			sepNavSelRange = "{252, 0}";
+			sepNavVisRange = "{0, 610}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* SamsungNavigatorViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1643, 1840}}";
+			sepNavSelRange = "{1385, 0}";
+			sepNavVisRange = "{387, 1630}";
+			sepNavWindowFrame = "{{0, 91}, {1920, 965}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 56BCDA6313AEC848004D6C5A /* SamsungNavigator */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* SamsungNavigator */;
+		codeSenseManager = 56BCDA6E13AEC87A004D6C5A /* Code sense */;
+		executables = (
+			56BCDA6313AEC848004D6C5A /* SamsungNavigator */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXBookmarksDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBookmarksDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					200,
+					1275,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBookmarksDataSource_LocationID,
+					PBXBookmarksDataSource_NameID,
+					PBXBookmarksDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1465,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 330339590;
+			PBXWorkspaceStateSaveDate = 330339590;
+		};
+		perUserProjectItems = {
+			563AEC5E13B0986200F12CE2 /* PBXTextBookmark */ = 563AEC5E13B0986200F12CE2 /* PBXTextBookmark */;
+			56F7EC7B13B06F3A00EF0133 /* PBXTextBookmark */ = 56F7EC7B13B06F3A00EF0133 /* PBXTextBookmark */;
+			56F7EC7C13B06F3A00EF0133 /* PBXTextBookmark */ = 56F7EC7C13B06F3A00EF0133 /* PBXTextBookmark */;
+			56F7EC7D13B06F3A00EF0133 /* PlistBookmark */ = 56F7EC7D13B06F3A00EF0133 /* PlistBookmark */;
+			56F7EC7E13B06F3A00EF0133 /* PBXTextBookmark */ = 56F7EC7E13B06F3A00EF0133 /* PBXTextBookmark */;
+			56F7EC7F13B06F3A00EF0133 /* PBXTextBookmark */ = 56F7EC7F13B06F3A00EF0133 /* PBXTextBookmark */;
+			56F7EC8013B06F3A00EF0133 /* PBXTextBookmark */ = 56F7EC8013B06F3A00EF0133 /* PBXTextBookmark */;
+			56F7EC9713B085F100EF0133 /* PBXTextBookmark */ = 56F7EC9713B085F100EF0133 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 56BCDA6D13AEC87A004D6C5A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1643, 832}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 363}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* SamsungNavigator_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1643, 832}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 201}";
+		};
+	};
+	563AEC5E13B0986200F12CE2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SamsungNavigatorViewController.m */;
+		name = "SamsungNavigatorViewController.m: 47";
+		rLen = 0;
+		rLoc = 1385;
+		rType = 0;
+		vrLen = 1630;
+		vrLoc = 387;
+	};
+	56BCDA6313AEC848004D6C5A /* SamsungNavigator */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SamsungNavigator;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	56BCDA6D13AEC87A004D6C5A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	56BCDA6E13AEC87A004D6C5A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	56F7EC7B13B06F3A00EF0133 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* SamsungNavigator_Prefix.pch */;
+		name = "SamsungNavigator_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 201;
+		vrLoc = 0;
+	};
+	56F7EC7C13B06F3A00EF0133 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 363;
+		vrLoc = 0;
+	};
+	56F7EC7D13B06F3A00EF0133 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* SamsungNavigator-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/otcotc/workspace/SamsungNavigator4iPhone/SamsungNavigator-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	56F7EC7E13B06F3A00EF0133 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* SamsungNavigatorAppDelegate.h */;
+		name = "SamsungNavigatorAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 526;
+		vrLoc = 0;
+	};
+	56F7EC7F13B06F3A00EF0133 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SamsungNavigatorAppDelegate.m */;
+		name = "SamsungNavigatorAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1912;
+		vrLoc = 0;
+	};
+	56F7EC8013B06F3A00EF0133 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* SamsungNavigatorViewController.h */;
+		name = "SamsungNavigatorViewController.h: 15";
+		rLen = 0;
+		rLoc = 252;
+		rType = 0;
+		vrLen = 610;
+		vrLoc = 0;
+	};
+	56F7EC9713B085F100EF0133 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SamsungNavigatorViewController.m */;
+		name = "SamsungNavigatorViewController.m: 47";
+		rLen = 0;
+		rLoc = 1385;
+		rType = 0;
+		vrLen = 1626;
+		vrLoc = 389;
+	};
+}
